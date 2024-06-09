@@ -22,7 +22,7 @@ $\bullet$ `Catboost 1.2.5`
 $\bullet$ `Scikit-learn 1.4.1.post1`
 
 ## Запуск:
-Скачать Docker Image c Docker Hub **polovnikovv/shad_ml_ops** и поднять контенер
+Скачать Docker Image c Docker Hub **polovnikovv/shad_ml_ops** и поднять контейнер
 
 ## Интерфейс:
 ![image](https://github.com/polovnik0v/shad_ml_ops/assets/104150952/4800b0b7-e380-4a97-a912-c124f9fd07b6)
